@@ -58,3 +58,4 @@ TikTok API による認証画面では TikTok の Cookie が使用される場�
 - Email: bsk.m.j.2323@gmail.com
 
 最終更新日：2025年12月25日
+
